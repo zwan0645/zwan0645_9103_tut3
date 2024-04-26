@@ -14,8 +14,8 @@ blablabla
 
 **list**
 
--item1
--item2
- -sub item1
- -sub item2
+- item1
+- item2
+ - sub item1
+ - sub item2
 
