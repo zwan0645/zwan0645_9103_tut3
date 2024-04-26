@@ -8,7 +8,13 @@ blablabla
 ## heading2
 ### heading3
 
-** bold text
+**bold text**
 
-**italic text
+*italic text*
+
+**list**
+
+-item1
+-item2
+=
 
