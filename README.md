@@ -3,3 +3,12 @@
 this will be my first commit 
 
 blablabla
+
+# heading1
+## heading2
+### heading3
+
+** bold text
+
+**italic text
+
